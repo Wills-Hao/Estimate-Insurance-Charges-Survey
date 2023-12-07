@@ -7,4 +7,5 @@ This study aims to estimate the average insurance costs per individual and the s
 Deployed both sampling methods:
 -  Simple Random Sampling
 -  Stratified Sampling
+
 on both continuous and binary variables.
